@@ -1,3 +1,5 @@
+For TASK 1
+
 Make sure you have Docker installed on your machine.
 1. Fetch submodules 
 2. Run run_mongo.ps1 script
@@ -5,3 +7,5 @@ Make sure you have Docker installed on your machine.
 4. Run Backend
 5. Run Frondend (npm install and then ng serve)
 
+For Task 2
+Go to Folder Task 2)
